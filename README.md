@@ -1,10 +1,9 @@
 # amiibro
 
 > Display my amiibo&#39;s collection
-
 ## Build Setup
 
-``` bash
+```bash
 # install dependencies
 $ yarn install
 
